@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: " Sandra Iovino "
 output: 
   html_document:
     number_sections: true
@@ -11,6 +11,8 @@ date: "`r Sys.Date()`"
 
 # A Little Survey
 
+
+
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
 
 ## A short history of you.  
@@ -18,8 +20,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
-     
+ I went to Palmdale High School and I did graduate. I prefer math than English. I did very well in math in school. When I went to college I did great in History.  
 
 
 ## Your computer and your and its capability?  
@@ -27,17 +28,15 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
+  I have a apple computer. It is very diffrent than HP computer. If I were to rate myslef I would be a 6 because I can fix the issue but it does take me sometime. I have internet access at my house. I am able to get on my computer and due homework. 
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
-### my answer     
-  
-   
- 
+### my answer  
 
-
+  I would like to be called Sandra or Sandy. I wouldn't mind either one, they are both me. 
 
 
 ## Aspirations?   
@@ -45,7 +44,7 @@ What do you want to achieve in life?  What college subject do you think would be
 
 ### my answer     
   
-   
+  Something I would like to achieve in life is become a RN. I want to transfer to CSUN because they have a nice campus for nursing. A subject that is gretatest interest to me is science. I have my AA in Science but I want to get my ADN. 
  
 
 
@@ -56,7 +55,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ### my answer     
   
-   
+I have not been to a fereign country. Somewhere I want to go is Guatemala. I have not been in the military. If I where to join the military, I would want to go in the Air force branch. I always loved planes. I like to be in the air and knowing the history of the plane and the equipment they use. 
   
 
 
@@ -69,7 +68,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
+   I have not taken math 115 or math 116. I did not know that math 115 or math 116 counted for statistic in several transfers. The grade I need for this class is an A or B for my future plan. My plan is to turn in all my homework and be in class. 
  
 
 
